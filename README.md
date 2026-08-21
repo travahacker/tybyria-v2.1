@@ -1,3 +1,11 @@
+> ⚠️ **Repositório arquivado — espelho.** O conteúdo canônico da TybyrIA vive no Hugging Face:
+> **[TybyrIA v2.2](https://huggingface.co/Veronyka/tybyria-v2.2)** (modelo canônico e recomendado) ·
+> [TybyrIA v2.1](https://huggingface.co/Veronyka/tybyria-v2.1) (legado).
+>
+> Métricas, limitações e nota metodológica ficam apenas no card do modelo. Este espelho não é atualizado.
+
+---
+
 # 🏳️‍🌈 TybyrIA v2.1 (LEGADO)
 
 > ⚠️ **Este repositório é legado. Use a [TybyrIA v2.2](https://huggingface.co/Veronyka/tybyria-v2.2)**, que em teste held-out atinge **recall 97,3% com precisão 86,3%** (@ threshold 0,40) e corrige os falsos positivos em fala afirmativa da v2.1.
